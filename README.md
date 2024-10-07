@@ -20,7 +20,7 @@ The system is designed to monitor conveyor load status and detect faults in real
 
 ## Installation steps
 
-1. - Fork the [repo](https://github.com/codedmachine111/RTOS-cp)
+1. - Fork the [repo](https://github.com/akki541/RTOS---Course-Project.git)
    - Clone the repo to your local machine `git clone https://github.com/codedmachine111/RTOS-cp.git`
    - Change current directory `cd RTOS-cp`
 2. Install Keil uVision4 by following [this](https://users.ece.utexas.edu/~valvano/Volume1/KeilInstall.htm) tutorial.
